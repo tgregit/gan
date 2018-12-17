@@ -1,5 +1,6 @@
 # gan
-Some generative adversarial code
+Some generative adversarial code:
+
 keras_multi_gan_22.py is mostly a port of a TF gan found 
 https://medium.com/@stepanulyanin/dcgan-adventures-with-cifar10-905fb0a24d21
 
